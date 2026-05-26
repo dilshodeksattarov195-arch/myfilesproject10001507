@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersave",
+        "uuid": 13409286,
+        "checksum": "augjo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
